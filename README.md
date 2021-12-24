@@ -37,7 +37,7 @@ When the application first starts, you have to log in (usernname = Admin, Passwo
 * [React Native](https://reactnative.dev/) - The programming language used
 * [Android Studio](https://developer.android.com/studio) - For emulator
 
-## Features
+ ## Features
 
 ### Giriş 
 * Mobil İşletim Sistemleri : Android & iOS
